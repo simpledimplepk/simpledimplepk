@@ -58,10 +58,10 @@ identity:
 ### ⚡ What I Do & Collaborate On
 
 - 🔭 **Currently Building:** Autonomous, zero-maintenance disaster recovery engines and agentic AI architectures.
-- 🌱 **Specializing In:** Multi-model AI orchestration, High-availability cloud pipelines, and automated security hardening.
+- 🌱 **Specializing In:** Multi-model AI orchestration, high-availability cloud pipelines, and automated security hardening.
 - 👯 **Open to Collaborate On:** Enterprise-scale CI/CD automation, fault-tolerant infrastructure, and open-source developer tooling.
 - 💬 **Ask Me About:** GitHub Actions pacing, Git refspecs, distributed failovers, Next.js, and TypeScript/Python backends.
-- ⚡ **Fun Fact:** *"The best code is the code that runs silently for years without waking up the engineer on-call."*
+- ⚡ **Engineering Credo:** *"The best code is the code that runs silently for years without waking up the engineer on-call."*
 
 ---
 
@@ -114,109 +114,20 @@ identity:
 
 ### 📌 Pinned Flagship Repositories
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <!-- Card 1 -->
-      <td width="50%" valign="top">
-        <a href="https://github.com/simpledimplepk/global-repo-backup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=00c853&text_color=c9d1d9" width="100%" alt="global-repo-backup" />
-        </a>
-      </td>
-      <!-- Card 2 -->
-      <td width="50%" valign="top">
-        <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=AI-Slop-DetectorPRO&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=00c853&text_color=c9d1d9" width="100%" alt="AI-Slop-DetectorPRO" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <!-- Card 3 -->
-      <td width="50%" valign="top">
-        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 DocuMind</span>
-            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
-          </div>
-          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
-            Next-generation enterprise document understanding engine powered by multi-modal LLM extractors and semantic vector indexes.
-          </p>
-          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
-            <span><span style="color: #3572A5;">●</span> Python</span>
-            <span>⭐ Active</span>
-            <span>⚡ Multi-Modal</span>
-          </div>
-        </div>
-      </td>
-      <!-- Card 4 -->
-      <td width="50%" valign="top">
-        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 nextjs-chat</span>
-            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
-          </div>
-          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
-            High-concurrency streaming AI chat platform with server components, Edge runtimes, and distributed state caching.
-          </p>
-          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
-            <span><span style="color: #3178C6;">●</span> TypeScript</span>
-            <span>⭐ Active</span>
-            <span>⚡ Edge Runtime</span>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <!-- Card 5 -->
-      <td width="50%" valign="top">
-        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 JobsApplyBlaze</span>
-            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
-          </div>
-          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
-            Autonomous career search discovery and intelligent candidate matching pipeline with multi-board web scrapers.
-          </p>
-          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
-            <span><span style="color: #f1e05a;">●</span> JavaScript</span>
-            <span>⭐ Active</span>
-            <span>⚡ Autonomous</span>
-          </div>
-        </div>
-      </td>
-      <!-- Card 6 -->
-      <td width="50%" valign="top">
-        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
-          <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 federal-register-radar</span>
-            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
-          </div>
-          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
-            Real-time compliance radar monitoring public regulatory filings, policy changes, and automated legislative alerting.
-          </p>
-          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
-            <span><span style="color: #3572A5;">●</span> Python</span>
-            <span>⭐ Active</span>
-            <span>⚡ Real-Time</span>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| 🚀 [global-repo-backup](https://github.com/simpledimplepk/global-repo-backup) `Private` | 🔍 [AI-Slop-DetectorPRO](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) `Public` |
+| :--- | :--- |
+| **Serverless Disaster Recovery Orchestrator**<br>Autonomous multi-account mirror pipeline with paced batching, smart SHA diff checks, and automatic keep-alive heartbeat.<br><br>`● Bash / Actions` &nbsp;•&nbsp; `⭐ Production` &nbsp;•&nbsp; `⚡ Self-Healing` | **Forensic Neural Text Analysis Engine**<br>Agentic AI and video intelligence detector built to evaluate burstiness, lexical anomalies, and AI hallucination patterns.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Production` &nbsp;•&nbsp; `⚡ Deepfake Forensic` |
+| 📁 [DocuMind](https://github.com/simpledimplepk/DocuMind) `Private` | 📁 [nextjs-chat](https://github.com/simpledimplepk/nextjs-chat) `Private` |
+| **Enterprise Document Understanding Platform**<br>High-throughput intelligent document ingestion engine using multi-modal LLM extractors and semantic vector indexes.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Multi-Modal Vector` | **Real-Time Streaming AI Chat Architecture**<br>High-concurrency streaming AI chat platform built with React Server Components, Edge runtimes, and distributed state caching.<br><br>`● TypeScript` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Edge Runtime` |
+| 📁 [JobsApplyBlaze](https://github.com/simpledimplepk/JobsApplyBlaze) `Private` | 📁 [federal-register-radar](https://github.com/simpledimplepk/federal-register-radar) `Private` |
+| **Autonomous Career Discovery & Matching Pipeline**<br>Intelligent multi-board job scraper and automated application synthesizer with semantic candidate profile ranking.<br><br>`● JavaScript` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Autonomous Scraper` | **Real-Time Regulatory Filing Radar**<br>Continuous compliance stream monitor parsing federal public records, policy shifts, and legislative alerts in real time.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Real-Time Streaming` |
 
 ---
 
-### 📈 Contribution Velocity & Activity Radar
+### 📈 Contribution Velocity & Activity Overview
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simpledimplepk&theme=github_dark" width="98%" alt="Activity Overview Card" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simpledimplepk&theme=github_dark" width="98%" alt="Activity Overview Card" />
 </div>
 
 ---
