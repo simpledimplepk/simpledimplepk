@@ -14,11 +14,30 @@
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Automating-7928CA?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
 </p>
 
+<!-- Social & Developer Network Hub -->
+<p align="center">
+  <a href="https://github.com/simpledimplepk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contact@simpledimple.pk" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://dev.to" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 Executive Summary & Mission
 
 ```yaml
 identity:
@@ -33,6 +52,16 @@ identity:
     uptime_standard: 99.99%
     philosophy: Zero-Maintenance, Self-Healing, Paced Execution
 ```
+
+---
+
+### ⚡ What I Do & Collaborate On
+
+- 🔭 **Currently Building:** Autonomous, zero-maintenance disaster recovery engines and agentic AI architectures.
+- 🌱 **Specializing In:** Multi-model AI orchestration, High-availability cloud pipelines, and automated security hardening.
+- 👯 **Open to Collaborate On:** Enterprise-scale CI/CD automation, fault-tolerant infrastructure, and open-source developer tooling.
+- 💬 **Ask Me About:** GitHub Actions pacing, Git refspecs, distributed failovers, Next.js, and TypeScript/Python backends.
+- ⚡ **Fun Fact:** *"The best code is the code that runs silently for years without waking up the engineer on-call."*
 
 ---
 
@@ -83,32 +112,24 @@ identity:
 
 ---
 
-### 🛡️ Featured Architectural Highlights
+### 🛡️ Featured Systems & Flagship Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Global Repo Backup Orchestrator</h4>
-      <p>Serverless disaster recovery system that mirrors full GitHub accounts across organizations and accounts with zero third-party dependencies.</p>
-      <ul>
-        <li><b>Paced Batching Algorithm:</b> Zero burst risk; prevents anti-abuse false flags.</li>
-        <li><b>Zero-Maintenance Heartbeat:</b> Autonomous keep-alive preventing GitHub's 60-day cron freeze.</li>
-        <li><b>Provenance Tracing:</b> Automatic upstream tracking and <code>-FORKED</code> tag segregation.</li>
-      </ul>
-      <p><b>Stack:</b> <code>GitHub Actions</code>, <code>Bash</code>, <code>Git Refspecs</code>, <code>GitHub REST API</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 AI Slop Detector PRO & SlopShield</h4>
-      <p>Corpus-grounded forensic analysis toolset built to detect neural AI-generated text patterns, burstiness anomalies, and hallucinated claims.</p>
-      <ul>
-        <li>Multi-axis statistical lexical analysis.</li>
-        <li>Automated repair and de-slopping pipelines.</li>
-        <li>Dual-mode audit reporting (Markdown + JSON).</li>
-      </ul>
-      <p><b>Stack:</b> <code>Python</code>, <code>FastAPI</code>, <code>TypeScript</code>, <code>Vector Embeddings</code></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/simpledimplepk/global-repo-backup">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=c9d1d9" alt="global-repo-backup" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=AI-Slop-DetectorPRO&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=c9d1d9" alt="AI-Slop-DetectorPRO" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
