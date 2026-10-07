@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Automating-7928CA?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
 </p>
 
-<!-- Social & Developer Network Hub -->
+<!-- Developer Connect Hub -->
 <p align="center">
   <a href="https://github.com/simpledimplepk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -112,20 +112,108 @@ identity:
 
 ---
 
-### 🛡️ Featured Systems & Flagship Repositories
+### 📌 Pinned Flagship Repositories
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
+      <!-- Card 1 -->
+      <td width="50%" valign="top">
         <a href="https://github.com/simpledimplepk/global-repo-backup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=c9d1d9" alt="global-repo-backup" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=00c853&text_color=c9d1d9" width="100%" alt="global-repo-backup" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <!-- Card 2 -->
+      <td width="50%" valign="top">
         <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=AI-Slop-DetectorPRO&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&text_color=c9d1d9" alt="AI-Slop-DetectorPRO" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=AI-Slop-DetectorPRO&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=00c853&text_color=c9d1d9" width="100%" alt="AI-Slop-DetectorPRO" />
         </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Card 3 -->
+      <td width="50%" valign="top">
+        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 DocuMind</span>
+            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
+          </div>
+          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
+            Next-generation enterprise document understanding engine powered by multi-modal LLM extractors and semantic vector indexes.
+          </p>
+          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
+            <span><span style="color: #3572A5;">●</span> Python</span>
+            <span>⭐ Active</span>
+            <span>⚡ Multi-Modal</span>
+          </div>
+        </div>
+      </td>
+      <!-- Card 4 -->
+      <td width="50%" valign="top">
+        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 nextjs-chat</span>
+            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
+          </div>
+          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
+            High-concurrency streaming AI chat platform with server components, Edge runtimes, and distributed state caching.
+          </p>
+          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
+            <span><span style="color: #3178C6;">●</span> TypeScript</span>
+            <span>⭐ Active</span>
+            <span>⚡ Edge Runtime</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- Card 5 -->
+      <td width="50%" valign="top">
+        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 JobsApplyBlaze</span>
+            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
+          </div>
+          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
+            Autonomous career search discovery and intelligent candidate matching pipeline with multi-board web scrapers.
+          </p>
+          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
+            <span><span style="color: #f1e05a;">●</span> JavaScript</span>
+            <span>⭐ Active</span>
+            <span>⚡ Autonomous</span>
+          </div>
+        </div>
+      </td>
+      <!-- Card 6 -->
+      <td width="50%" valign="top">
+        <div style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; min-height: 110px; text-align: left;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <span style="color: #58a6ff; font-weight: 600; font-size: 15px;">📁 federal-register-radar</span>
+            <span style="font-size: 11px; color: #8b949e; border: 1px solid #30363d; border-radius: 10px; padding: 1px 7px;">Private</span>
+          </div>
+          <p style="color: #8b949e; font-size: 12px; margin: 8px 0 12px 0; line-height: 1.4;">
+            Real-time compliance radar monitoring public regulatory filings, policy changes, and automated legislative alerting.
+          </p>
+          <div style="font-size: 12px; color: #8b949e; display: flex; align-items: center; gap: 12px;">
+            <span><span style="color: #3572A5;">●</span> Python</span>
+            <span>⭐ Active</span>
+            <span>⚡ Real-Time</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 Contribution Velocity & Activity Radar
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simpledimplepk&theme=github_dark" width="98%" alt="Activity Overview Card" />
       </td>
     </tr>
   </table>
