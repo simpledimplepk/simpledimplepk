@@ -3,6 +3,13 @@
 <!-- Animated Header Hero -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25&height=220&section=header&text=Simple%20Dimple&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Cloud%20Architect%20%7C%20Autonomous%20AI%20Engineering&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Header" />
 
+<!-- SysAdminDoc-Style Authority Impact Ribbon -->
+<p align="center">
+  <b>90+</b> Repositories Managed &middot; 
+  <b>99.99%</b> Target System Uptime &middot; 
+  <b>Zero-Maintenance</b> Cloud Automation
+</p>
+
 <!-- Typing SVG Sub-header -->
 <a href="https://github.com/simpledimplepk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Crafting+Resilient+High-Performance+Distributed+Systems;Automating+Zero-Maintenance+Cloud+Infrastructure;Architecting+Next-Gen+Agentic+AI+Pipelines" alt="Typing SVG" />
@@ -37,6 +44,82 @@
 
 ---
 
+### 🎯 Pick Your Problem
+
+> *Start directly from the job or system requirement you need solved.*
+
+| If you need to... | Flagship Architecture | Core Capability |
+| :--- | :--- | :--- |
+| **Mirror entire GitHub accounts with zero manual work** | [**global-repo-backup**](https://github.com/simpledimplepk/global-repo-backup) `Private` | Serverless disaster-recovery pipeline with paced batching, smart SHA checks, and a self-healing heartbeat. |
+| **Detect AI slop, hallucinations, and deepfakes** | [**AI-Slop-DetectorPRO**](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) `Public` | Forensic lexical analysis, burstiness scoring, and multimodal video intelligence detector. |
+| **Extract structured intelligence from enterprise documents** | [**DocuMind**](https://github.com/simpledimplepk/DocuMind) `Private` | High-throughput document understanding engine with multimodal LLM extractors and semantic vector stores. |
+| **Deploy real-time streaming AI chat at high scale** | [**nextjs-chat**](https://github.com/simpledimplepk/nextjs-chat) `Private` | React Server Components, Edge runtimes, sub-second TTFB, and distributed state caching. |
+| **Automate multi-platform career discovery & applications** | [**JobsApplyBlaze**](https://github.com/simpledimplepk/JobsApplyBlaze) `Private` | Autonomous web scraping, semantic resume matching, and pipeline tracking. |
+| **Monitor live federal regulations and policy changes** | [**federal-register-radar**](https://github.com/simpledimplepk/federal-register-radar) `Private` | Real-time regulatory feed ingestion with automated compliance anomaly alerts. |
+
+---
+
+### 📂 Browse Projects by Category
+
+<details>
+<summary><b>☁️ Cloud Infrastructure & Disaster Recovery</b> &middot; <i>High-availability automation</i></summary>
+<br/>
+
+- [**global-repo-backup**](https://github.com/simpledimplepk/global-repo-backup) &middot; Autonomous multi-account mirror pipeline with paced batching, SHA pre-checks, and multi-year keep-alive heartbeats.<br/><sub>Stack: GitHub Actions &middot; Bash &middot; Git Refspecs &middot; REST API</sub>
+- [**serverkit**](https://github.com/simpledimplepk/serverkit) &middot; Modular cloud host automation, hardened runtime deployment, and system diagnostics.<br/><sub>Stack: Shell &middot; Linux &middot; Security Hardening</sub>
+- [**antigravity-backup-restore**](https://github.com/simpledimplepk/antigravity-backup-restore) &middot; Snapshot backup and instant restoration suite for distributed agent environments.
+
+</details>
+
+<details>
+<summary><b>🧠 Agentic AI, Detection & Forensic Tools</b> &middot; <i>Cognitive systems & forensics</i></summary>
+<br/>
+
+- [**AI-Slop-DetectorPRO**](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) &middot; Forensic lexical analysis and deepfake detector detecting AI-generated text anomalies and halluncinations.<br/><sub>Stack: Python &middot; FastText &middot; Vector Embeddings</sub>
+- [**AI-Slop-Detector-Pro**](https://github.com/simpledimplepk/AI-Slop-Detector-Pro) &middot; Microservice edition for high-throughput batch text classification.
+- [**universal-ai-agent-bridge**](https://github.com/simpledimplepk/universal-ai-agent-bridge) &middot; Universal interoperability bridge connecting autonomous agents across LLM providers.
+- [**DocuMind**](https://github.com/simpledimplepk/DocuMind) &middot; Multimodal document extraction and semantic RAG indexing.
+
+</details>
+
+<details>
+<summary><b>⚡ Full-Stack Platforms & Web Applications</b> &middot; <i>Modern web architectures</i></summary>
+<br/>
+
+- [**nextjs-chat**](https://github.com/simpledimplepk/nextjs-chat) &middot; Streaming AI chat architecture built on Next.js App Router, Edge runtime, and Redis caching.<br/><sub>Stack: Next.js &middot; TypeScript &middot; Tailwind CSS &middot; Vercel</sub>
+- [**nextjs-chat-lib**](https://github.com/simpledimplepk/nextjs-chat-lib) &middot; Headless component and hook library for rapid conversational interface development.
+- [**artisan-roast-co--3558**](https://github.com/simpledimplepk/artisan-roast-co--3558) &middot; Production e-commerce storefront with high-performance responsive styling.
+- [**galaxyone**](https://github.com/simpledimplepk/galaxyone) &middot; Scalable full-stack SaaS portal with integrated authentication and workspace management.
+
+</details>
+
+<details>
+<summary><b>🤖 Autonomous Scrapers, Pipelines & Growth Engines</b> &middot; <i>Data capture & execution</i></summary>
+<br/>
+
+- [**JobsApplyBlaze**](https://github.com/simpledimplepk/JobsApplyBlaze) &middot; Intelligent job discovery engine and automated candidate application synthesizer.<br/><sub>Stack: JavaScript &middot; Node.js &middot; Automated Scraping</sub>
+- [**federal-register-radar**](https://github.com/simpledimplepk/federal-register-radar) &middot; Continuous regulatory feed scanner alerting on legal and administrative policy updates.
+- [**Advanced-Startup-Discovery-System---V-1**](https://github.com/simpledimplepk/Advanced-Startup-Discovery-System---V-1) &middot; Systematic market intelligence engine discovering early-stage venture funding signals.
+- [**youtube2blog-pro**](https://github.com/simpledimplepk/youtube2blog-pro) &middot; Automated content repurposing pipeline converting video transcripts into structured, SEO-optimized articles.
+
+</details>
+
+<details>
+<summary><b>🧪 Mirrored Upstream Ecosystems</b> &middot; <i>60+ tracked repositories</i></summary>
+<br/>
+
+All upstream open-source forks are automatically tracked, synchronized, and isolated with provenance source annotations:
+
+- [**remote-jobs-FORKED**](https://github.com/simpledimplepk/remote-jobs-FORKED) &middot; `[Forked from remoteintech/remote-jobs]` Source for remote-friendly tech companies.
+- [**1Hosts-FORKED**](https://github.com/simpledimplepk/1Hosts-FORKED) &middot; `[Forked from badmojr/1Hosts]` High-performance DNS filter and blocklists.
+- [**bolt.diy-FORKED**](https://github.com/simpledimplepk/bolt.diy-FORKED) &middot; `[Forked from stackblitz-labs/bolt.diy]` In-browser full-stack development sandbox.
+- [**Microsoft-Activation-Scripts-FORKED**](https://github.com/simpledimplepk/Microsoft-Activation-Scripts-FORKED) &middot; `[Forked from massgravel/Microsoft-Activation-Scripts]` Open-source Windows utilities.
+- *(Browse 55+ additional upstream systems in the repository tab)*
+
+</details>
+
+---
+
 ### 👨‍💻 Executive Summary & Mission
 
 ```yaml
@@ -52,16 +135,6 @@ identity:
     uptime_standard: 99.99%
     philosophy: Zero-Maintenance, Self-Healing, Paced Execution
 ```
-
----
-
-### ⚡ What I Do & Collaborate On
-
-- 🔭 **Currently Building:** Autonomous, zero-maintenance disaster recovery engines and agentic AI architectures.
-- 🌱 **Specializing In:** Multi-model AI orchestration, high-availability cloud pipelines, and automated security hardening.
-- 👯 **Open to Collaborate On:** Enterprise-scale CI/CD automation, fault-tolerant infrastructure, and open-source developer tooling.
-- 💬 **Ask Me About:** GitHub Actions pacing, Git refspecs, distributed failovers, Next.js, and TypeScript/Python backends.
-- ⚡ **Engineering Credo:** *"The best code is the code that runs silently for years without waking up the engineer on-call."*
 
 ---
 
