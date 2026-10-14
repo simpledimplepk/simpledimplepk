@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25&height=220&section=header&text=Simple%20Dimple&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20%7C%20Cloud%20Architect%20%7C%20Autonomous%20AI%20Engineering&descSize=20&descAlignY=70&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:142236,100:090d16&height=220&section=header&text=Simple%20Dimple&fontSize=52&fontColor=ffffff&stroke=38bdf8&strokeWidth=1&fontAlignY=40&desc=Full-Stack%20%7C%20Cloud%20Architect%20%7C%20Autonomous%20AI%20Engineering&descSize=19&descAlignY=65&descAlign=50" width="100%" alt="Header" />
 
 <!-- SysAdminDoc-Style Authority Impact Ribbon -->
 <p align="center">
@@ -298,7 +298,7 @@ identity:
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,19,11,1&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:142236,100:090d16&height=120&section=footer" width="100%" alt="Footer" />
 
 <p align="center">
   <i>"Architecture is not about making things complex; it's about making complex systems simple, silent, and permanent."</i>
