@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b1078,35:841b9c,70:a02bbb,100:cd42ed&height=220&section=header&text=Simple%20Dimple&fontSize=52&fontColor=ffffff&stroke=f3e8ff&strokeWidth=1&fontAlignY=40&desc=Full-Stack%20%7C%20Cloud%20Architect%20%7C%20Autonomous%20AI%20Engineering&descSize=19&descAlignY=65&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:841b9c,50:cd42ed,100:841b9c&height=220&section=header&text=Simple%20Dimple&fontSize=52&fontColor=ffffff&stroke=f3e8ff&strokeWidth=1&fontAlignY=40&desc=Full-Stack%20%7C%20Cloud%20Architect%20%7C%20Autonomous%20AI%20Engineering&descSize=19&descAlignY=65&descAlign=50" width="100%" alt="Header" />
 
 <!-- SysAdminDoc-Style Authority Impact Ribbon -->
 <p align="center">
