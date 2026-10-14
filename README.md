@@ -52,7 +52,7 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/simpledimplepk/global-repo-backup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&icon_color=00c853&text_color=c9d1d9" width="100%" alt="Global Repo Backup Orchestrator">
+    <img src="./assets/cards/global-repo-backup.svg" width="100%" alt="Global Repo Backup Orchestrator">
   </a>
   <p>
     <b><a href="https://github.com/simpledimplepk/global-repo-backup">Global Repo Backup</a></b> &middot; DevOps &middot; ⭐ Production &middot; 99.99% Uptime<br>
@@ -88,7 +88,7 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/simpledimplepk/DocuMind">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=30363d&strokeWidth=1&height=120&section=header&text=%F0%9F%93%81%20DocuMind&fontSize=22&fontColor=58a6ff&desc=Enterprise%20Document%20Intelligence%20%7C%20Multimodal%20RAG&descSize=13&descColor=8b949e&descAlignY=65" width="100%" alt="DocuMind">
+    <img src="./assets/cards/DocuMind.svg" width="100%" alt="DocuMind">
   </a>
   <p>
     <b><a href="https://github.com/simpledimplepk/DocuMind">DocuMind</a></b> &middot; Multimodal RAG &middot; ⭐ Active &middot; Python<br>
@@ -105,7 +105,7 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/simpledimplepk/nextjs-chat">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=30363d&strokeWidth=1&height=120&section=header&text=%F0%9F%92%AC%20nextjs-chat&fontSize=22&fontColor=58a6ff&desc=Real-Time%20Edge%20Streaming%20AI%20Chat%20Architecture&descSize=13&descColor=8b949e&descAlignY=65" width="100%" alt="nextjs-chat">
+    <img src="./assets/cards/nextjs-chat.svg" width="100%" alt="nextjs-chat">
   </a>
   <p>
     <b><a href="https://github.com/simpledimplepk/nextjs-chat">nextjs-chat</a></b> &middot; Full-Stack &middot; ⭐ Active &middot; TypeScript<br>
