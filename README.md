@@ -298,7 +298,7 @@ identity:
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:142236,100:090d16&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:841b9c,50:cd42ed,100:841b9c&height=120&section=footer" width="100%" alt="Footer" />
 
 <p align="center">
   <i>"Architecture is not about making things complex; it's about making complex systems simple, silent, and permanent."</i>
