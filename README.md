@@ -44,6 +44,87 @@
 
 ---
 
+### 🚀 Featured Systems & Flagship Architectures
+
+> *Flagship systems engineered for high concurrency, forensic security, and autonomous uptime.*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/simpledimplepk/global-repo-backup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=global-repo-backup&theme=radical&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&icon_color=00c853&text_color=c9d1d9" width="100%" alt="Global Repo Backup Orchestrator">
+  </a>
+  <p>
+    <b><a href="https://github.com/simpledimplepk/global-repo-backup">Global Repo Backup</a></b> &middot; DevOps &middot; ⭐ Production &middot; 99.99% Uptime<br>
+    Serverless disaster recovery orchestrator with paced batching, SHA pre-checks, automatic provenance tracking, and a self-healing keep-alive heartbeat.
+  </p>
+  <p>
+    <a href="https://github.com/simpledimplepk/global-repo-backup">
+      <img src="https://img.shields.io/badge/View_Architecture-238636?style=for-the-badge&logo=github&logoColor=white" height="24" alt="View Architecture">
+    </a>
+    <a href="https://github.com/simpledimplepk/global-repo-backup/actions">
+      <img src="https://img.shields.io/badge/Live_Pipelines-8957E5?style=for-the-badge&logo=githubactions&logoColor=white" height="24" alt="Live Pipelines">
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simpledimplepk&repo=AI-Slop-DetectorPRO&theme=radical&hide_border=false&bg_color=0D1117&border_color=30363d&title_color=58a6ff&icon_color=00c853&text_color=c9d1d9" width="100%" alt="AI Slop Detector PRO">
+  </a>
+  <p>
+    <b><a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">AI Slop Detector PRO</a></b> &middot; AI Forensics &middot; ⭐ Production &middot; Multimodal<br>
+    Corpus-grounded forensic neural text detector analyzing lexical burstiness, entropy drift, and deepfake hallucinations with dual-mode export.
+  </p>
+  <p>
+    <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO">
+      <img src="https://img.shields.io/badge/Explore_Detector-238636?style=for-the-badge&logo=python&logoColor=white" height="24" alt="Explore Detector">
+    </a>
+    <a href="https://github.com/simpledimplepk/AI-Slop-DetectorPRO/releases">
+      <img src="https://img.shields.io/badge/Releases-1F6FEB?style=for-the-badge&logo=semanticrelease&logoColor=white" height="24" alt="Releases">
+    </a>
+  </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/simpledimplepk/DocuMind">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=30363d&strokeWidth=1&height=120&section=header&text=%F0%9F%93%81%20DocuMind&fontSize=22&fontColor=58a6ff&desc=Enterprise%20Document%20Intelligence%20%7C%20Multimodal%20RAG&descSize=13&descColor=8b949e&descAlignY=65" width="100%" alt="DocuMind">
+  </a>
+  <p>
+    <b><a href="https://github.com/simpledimplepk/DocuMind">DocuMind</a></b> &middot; Multimodal RAG &middot; ⭐ Active &middot; Python<br>
+    High-throughput intelligent document ingestion engine using vision-language models, OCR extractors, and semantic vector embeddings.
+  </p>
+  <p>
+    <a href="https://github.com/simpledimplepk/DocuMind">
+      <img src="https://img.shields.io/badge/View_System-238636?style=for-the-badge&logo=python&logoColor=white" height="24" alt="View System">
+    </a>
+    <a href="https://github.com/simpledimplepk/DocuMind">
+      <img src="https://img.shields.io/badge/Vector_RAG-D29922?style=for-the-badge&logo=databricks&logoColor=white" height="24" alt="Vector RAG">
+    </a>
+  </p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/simpledimplepk/nextjs-chat">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=30363d&strokeWidth=1&height=120&section=header&text=%F0%9F%92%AC%20nextjs-chat&fontSize=22&fontColor=58a6ff&desc=Real-Time%20Edge%20Streaming%20AI%20Chat%20Architecture&descSize=13&descColor=8b949e&descAlignY=65" width="100%" alt="nextjs-chat">
+  </a>
+  <p>
+    <b><a href="https://github.com/simpledimplepk/nextjs-chat">nextjs-chat</a></b> &middot; Full-Stack &middot; ⭐ Active &middot; TypeScript<br>
+    High-concurrency streaming AI interface built with React Server Components, Vercel Edge functions, and distributed Redis cache layers.
+  </p>
+  <p>
+    <a href="https://github.com/simpledimplepk/nextjs-chat">
+      <img src="https://img.shields.io/badge/View_Platform-238636?style=for-the-badge&logo=nextdotjs&logoColor=white" height="24" alt="View Platform">
+    </a>
+    <a href="https://github.com/simpledimplepk/nextjs-chat">
+      <img src="https://img.shields.io/badge/Edge_Runtime-000000?style=for-the-badge&logo=vercel&logoColor=white" height="24" alt="Edge Runtime">
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+---
+
 ### 🎯 Pick Your Problem
 
 > *Start directly from the job or system requirement you need solved.*
@@ -75,7 +156,7 @@
 <summary><b>🧠 Agentic AI, Detection & Forensic Tools</b> &middot; <i>Cognitive systems & forensics</i></summary>
 <br/>
 
-- [**AI-Slop-DetectorPRO**](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) &middot; Forensic lexical analysis and deepfake detector detecting AI-generated text anomalies and halluncinations.<br/><sub>Stack: Python &middot; FastText &middot; Vector Embeddings</sub>
+- [**AI-Slop-DetectorPRO**](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) &middot; Forensic lexical analysis and deepfake detector detecting AI-generated text anomalies and hallucinations.<br/><sub>Stack: Python &middot; FastText &middot; Vector Embeddings</sub>
 - [**AI-Slop-Detector-Pro**](https://github.com/simpledimplepk/AI-Slop-Detector-Pro) &middot; Microservice edition for high-throughput batch text classification.
 - [**universal-ai-agent-bridge**](https://github.com/simpledimplepk/universal-ai-agent-bridge) &middot; Universal interoperability bridge connecting autonomous agents across LLM providers.
 - [**DocuMind**](https://github.com/simpledimplepk/DocuMind) &middot; Multimodal document extraction and semantic RAG indexing.
@@ -182,18 +263,6 @@ identity:
 </p>
 
 </div>
-
----
-
-### 📌 Pinned Flagship Repositories
-
-| 🚀 [global-repo-backup](https://github.com/simpledimplepk/global-repo-backup) `Private` | 🔍 [AI-Slop-DetectorPRO](https://github.com/simpledimplepk/AI-Slop-DetectorPRO) `Public` |
-| :--- | :--- |
-| **Serverless Disaster Recovery Orchestrator**<br>Autonomous multi-account mirror pipeline with paced batching, smart SHA diff checks, and automatic keep-alive heartbeat.<br><br>`● Bash / Actions` &nbsp;•&nbsp; `⭐ Production` &nbsp;•&nbsp; `⚡ Self-Healing` | **Forensic Neural Text Analysis Engine**<br>Agentic AI and video intelligence detector built to evaluate burstiness, lexical anomalies, and AI hallucination patterns.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Production` &nbsp;•&nbsp; `⚡ Deepfake Forensic` |
-| 📁 [DocuMind](https://github.com/simpledimplepk/DocuMind) `Private` | 📁 [nextjs-chat](https://github.com/simpledimplepk/nextjs-chat) `Private` |
-| **Enterprise Document Understanding Platform**<br>High-throughput intelligent document ingestion engine using multi-modal LLM extractors and semantic vector indexes.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Multi-Modal Vector` | **Real-Time Streaming AI Chat Architecture**<br>High-concurrency streaming AI chat platform built with React Server Components, Edge runtimes, and distributed state caching.<br><br>`● TypeScript` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Edge Runtime` |
-| 📁 [JobsApplyBlaze](https://github.com/simpledimplepk/JobsApplyBlaze) `Private` | 📁 [federal-register-radar](https://github.com/simpledimplepk/federal-register-radar) `Private` |
-| **Autonomous Career Discovery & Matching Pipeline**<br>Intelligent multi-board job scraper and automated application synthesizer with semantic candidate profile ranking.<br><br>`● JavaScript` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Autonomous Scraper` | **Real-Time Regulatory Filing Radar**<br>Continuous compliance stream monitor parsing federal public records, policy shifts, and legislative alerts in real time.<br><br>`● Python` &nbsp;•&nbsp; `⭐ Active` &nbsp;•&nbsp; `⚡ Real-Time Streaming` |
 
 ---
 
